@@ -1,0 +1,6 @@
+/app/etc/local.xml
+*.sql
+*.zip
+*.gz
+/var/*
+/media/*
